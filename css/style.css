@@ -1,0 +1,968 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{ 
+    font-size: 14px;
+    line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.header{
+    width: 100%;
+    padding: 20px 0px;
+}
+/* headet section css code start here */
+.header .navbar .navbar-nav {
+    padding: 0px 210px 0px;
+}
+.header .navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #a117d8;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+    color: #a117d8;
+}
+/* headet section css code end here */
+/* banner section css code start here */
+.banner{
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner .owl-carousel {
+
+}
+  
+.banner .owl-carousel .text{
+    padding-top: 80px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 117px;
+}
+
+.banner .owl-carousel .text .text-t{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.7em;
+    text-transform: uppercase;
+    color: #09c;
+    letter-spacing: 2px;
+}
+.banner .owl-carousel .text .text-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    color: #000;
+   
+}
+.banner .owl-carousel .text .text-title-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #000;
+    
+}
+.banner .owl-carousel .img-fluid{
+    width: 90%;
+    margin-left: 250px;
+    text-align: right;
+}
+/* banner section css code end here */
+/* owner-speech section start here */
+.owner-speech{
+    width: 100%;
+    padding: 20px 0px;
+}
+.owner-speech .inner-owner-speech .inner-owner-speech-des{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: center;
+    color: #000;
+
+}
+.owner-speech .inner-owner-speech .owner-name{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.7em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: 2px;
+    padding-top: 20px;
+}
+/* owner-speech section end here */
+
+/* fun-water section css code start here */
+.fun-water{
+    width: 100%;
+    padding:  80px 0px;
+}
+.fun-water .line{
+    padding: 40px 0px;
+    text-align: center;
+}
+.fun-water .col-lg-12{
+    position: relative;
+   
+}
+.fun-water .col-lg-12 .text .text-des{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #000;
+    margin-left: 250px;
+    margin-top: 90px;
+
+}
+.fun-water .col-lg-12 .button{
+    margin-left: 250px;
+
+}
+.fun-water .col-lg-12 .button .btn-primary{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 0px;
+    border: 2px solid rgb(68, 29, 195);
+}
+.fun-water .col-lg-12 .button .btn-primary:hover{
+    color: #000;
+    background: transparent;
+    border: 2px solid rgb(68, 29, 195);
+
+}
+.fun-water .col-lg-12 .button .btn-primary:focus{
+    color: #000;
+    background: transparent;
+    border: 2px solid rgb(68, 29, 195);
+
+}
+.fun-water .f{
+    margin-left: 70px;
+}
+.thumbnail{
+    position: absolute;
+    top:80px;
+    left: 620px;
+    width: 650px;
+}
+/* fun-water section css code end here */
+
+/* buy surfboard css code start here */
+.buy-surfboard{
+    width: 100%;
+    padding: 80px 0px;
+}
+.buy-surfboard .titile .t{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #09c;
+    padding: 80px 0px 0px;
+   
+}
+.buy-surfboard .titile .t-text{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.2em;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    color: #000;
+    padding-bottom: 50px;
+}
+.buy-surfboard .card{
+    margin-left: 55px;
+
+}
+.buy-surfboard .card img{
+
+}
+.buy-surfboard .card .card-body .text{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.2em;
+    text-align: left;
+    letter-spacing: 2px;
+    color: #000;
+
+}
+.buy-surfboard .card .card-body .card-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    color: #000;
+}
+.buy-surfboard .card .card-body .card-text{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.2em;
+    text-align: left;
+    letter-spacing: 2px;
+    color: #000;
+}
+.buy-surfboard .card .card-body .btn-primary{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 0px;
+    border: 2px solid rgb(68, 29, 195);
+}
+.buy-surfboard .card .card-body .btn-primary:hover{
+     background: transparent;
+    color: #000;
+    border: 2px solid rgb(68, 29, 195);
+}
+.buy-surfboard .card .card-body .btn-primary:focus{
+    background: transparent;
+   color: #000;
+   border: 2px solid rgb(68, 29, 195);
+}
+/* buy surfboard css code end here */
+/* traning section css code start here */
+.traning{
+    width: 100%;
+    padding: 80px 0px;
+}
+.traning .trainnig-text{
+    padding: 80px 0px 0px;
+
+}
+.traning .trainnig-text .traning-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    color: #000;
+    text-transform: capitalize;
+  
+}
+.traning .trainnig-text .line{
+    margin: -26px 0px 0px;
+    width: 101px;
+    height: 3px;
+}
+.traning .trainnig-text .traning-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000;
+   padding: 30px 0px;
+}
+.traning .trainnig-text a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 1px solid #09c;
+    color: #000;
+}
+  
+/* traning section css code end here */
+
+/* break section css code start here */
+.break{
+    width: 100%;
+        padding: 80px 0px;
+}
+.break .break-text{
+    padding: 80px 0px 0px;
+
+}
+.break .break-text .break-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    color: #000;
+    text-transform: capitalize;
+  
+}
+.break .break-text .line{
+    margin: -26px 0px 0px;
+    width: 101px;
+    height: 3px;
+}
+.break .break-text .break-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000;
+   padding: 30px 0px;
+}
+.break .break-text a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 1px solid #09c;
+    color: #000;
+}
+/* break section css code end here */
+/* join-the-club section css code sart here */
+.join-the-club{
+    width: 100%;
+    padding: 80px 0px;
+    background-color: antiquewhite;
+}
+.join-the-club .line-2{
+    text-align: center;
+}
+.join-the-club .textr .title{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000;
+    text-transform: capitalize;
+    padding: 40px 0px 0px;
+}
+.join-the-club .textr .title-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 1.2em;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    padding: 20px 0px 0px;
+}
+.join-the-club .btn-primary{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 0px;
+    border: 2px solid rgb(68, 29, 195);
+
+}
+.join-the-club .btn-primary:hover{
+    background: transparent;
+    color: rgb(19, 22, 192);
+    border: 2px solid rgb(68, 29, 195);
+    transition: 1s;
+
+}
+.join-the-club .btn-primary:focus{
+    background: transparent;
+    color: rgb(19, 22, 192);
+    border: 2px solid rgb(68, 29, 195);
+
+}
+/* join-the-club section css code end here */
+/* sea-beach section css code start here */
+.sea-beach{
+    width: 100%;
+        padding: 80px 0px;
+}
+.sea-beach .sea-beach-text{
+    padding: 80px 0px 0px;
+    margin-left: 70px;
+
+}
+.sea-beach .sea-beach-text .sea-beach-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    color: #000;
+  
+}
+.sea-beach .sea-beach-text .line{
+    margin: -26px 0px 0px;
+    width: 101px;
+    height: 3px;
+}
+.sea-beach .sea-beach-text .sea-beach-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000;
+    padding: 30px 0px;
+   
+
+}
+.sea-beach .sea-beach-text a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 1px solid #09c;
+    color: #000;
+}
+/* sea-beach section css code end here */
+
+
+/* footer sectin css code start here */
+.footer{
+    width: 100%;
+    padding: 80px 0px;
+}
+.footer .pic{
+    text-align: center;
+    margin-left: 50px;
+
+}
+.footer .social{
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+}
+.footer .social ul{
+
+}
+.footer .social ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+   
+}
+.footer .social ul li .fa{
+    font-size: 20px;
+    color: #d5d2d2;
+}
+.footer .menu{
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+}
+.footer .menu ul{
+    display: block;
+}
+.footer .menu ul li{
+    display: inline-block;
+}
+.footer .menu .nav-item .nav-link{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    
+}
+.footer .inner-copyright{
+    width: 100%;
+   
+}
+.footer .inner-copyright .inner-copyright-text{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #000;
+    margin-left: 50px;
+    text-transform: capitalize;
+    text-align: center;
+}
+/* footer sectin css code end here */
+/* resonsive.csss start */
+@media (min-width: 320px) and (max-width: 480px) {
+/* headet section css code start here */
+.header .navbar .navbar-nav {
+    padding: 0px 190px 0px;
+}
+.header .navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #a117d8;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+    color: #a117d8;
+}
+/* headet section css code end here */
+/* banner section css code start here */
+.banner .owl-carousel .img-fluid {
+    width: 90%;
+    margin-left: 310px;
+    text-align: right;
+}
+.owner-speech .inner-owner-speech .inner-owner-speech-des{
+    font-size: 12px;
+}
+.owner-speech .inner-owner-speech .owner-name{
+    font-size: 10px;
+    padding-top: 0px;
+}
+/* fun-water section css code start here */
+.fun-water{
+    width: 100%;
+    padding:  80px 0px;
+}
+.fun-water .line{
+    padding: 40px 0px;
+    text-align: center;
+}
+.fun-water .col-lg-12{
+    position: relative;
+   
+}
+.fun-water .col-lg-12 .text .text-des{
+    font-family: 'Playfair Display', serif;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #000;
+    margin-left: 0px;
+    margin-top: 60px;
+
+}
+.fun-water .col-lg-12 .button{
+    margin-left: 100px;
+
+}
+.fun-water .col-lg-12 .button .btn-primary{
+    font-family: 'Playfair Display', serif;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 0px;
+    border: 2px solid rgb(68, 29, 195);
+}
+.fun-water .col-lg-12 .button .btn-primary:hover{
+    color: #000;
+    background: transparent;
+    border: 2px solid rgb(68, 29, 195);
+
+}
+.fun-water .col-lg-12 .button .btn-primary:focus{
+    color: #000;
+    background: transparent;
+    border: 2px solid rgb(68, 29, 195);
+
+}
+.fun-water .f{
+    width: 168px;
+    margin-left: 0px;
+}
+.thumbnail{
+    position: absolute;
+    top: 23px;
+    left: 145px;
+    width: 168px;
+}
+/* fun-water section css code end here */
+/* shop surface css code start */
+.buy-surfboard .titile .t-text{
+    font-size: 30px;
+}
+.buy-surfboard .card{
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+.buy-surfboard .card .card-body .text{
+    font-size: 25px;
+    
+}
+.buy-surfboard .card .card-body .card-title {
+    font-size: 17px;
+
+}
+.buy-surfboard .card .card-body .card-text {
+    font-size: 17px;
+
+}
+.buy-surfboard .card .card-body .btn-primary{
+    font-size: 10px;
+}
+/* shop surface css code end */
+/* traning section css code start here */
+.traning{
+    width: 100%;
+    padding: 80px 0px;
+}
+.traning .trainnig-text{
+    padding: 80px 0px 0px;
+
+}
+.traning .trainnig-text .traning-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    color: #000;
+    text-transform: capitalize;
+  
+}
+.traning .trainnig-text .line{
+    margin: -26px 0px 0px;
+    width: 101px;
+    height: 3px;
+}
+.traning .trainnig-text .traning-des{
+    font-family: 'Poppins', sans-serif;
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #000;
+   padding: 0px 0px;
+}
+.traning .trainnig-text a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 1.2em;
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 1px solid #09c;
+    color: #000;
+}
+  
+/* traning section css code end here */
+/* break section css code start here */
+.break .break-text{
+    padding: 10px 0px 0px;
+}
+.break .break-text .break-title{
+    font-size: 30px;
+}
+.break .break-text .break-des{
+    font-size: 9px;
+    padding: 10px 0px;
+}
+.break .break-text a{
+    font-size: 10px;
+}
+/* break section css code end here */
+/* join the club css code strt here */
+.join-the-club .textr .title{
+    font-size: 30px;
+}
+.join-the-club .textr .title-des{
+   font-size: 7px;
+}
+.form-control {
+    font-size: 0.7rem;
+}
+.join-the-club .btn-primary {
+    font-size: 10px;
+}
+/* join the club css code end here */
+
+/* sea beach section css code start here */
+.sea-beach .sea-beach-text .sea-beach-title{
+    font-size: 30px;
+}
+.sea-beach .sea-beach-text .sea-beach-des {
+    font-size: 10px;
+    padding: 10px 0px;
+}
+.sea-beach .sea-beach-text a {
+    font-size: 10px;
+}
+/* sea beach section css code end here */
+/* footer css code start here */
+.footer .pic {
+    margin-left: 0px;
+}
+.footer .social ul{
+    margin-left: -46px;
+}
+.footer .menu .nav-item .nav-link {
+    font-size: 10px;
+    margin-left: 20px;
+}
+.footer .inner-copyright .inner-copyright-text {
+    font-size: 10px;
+}
+/* footer css code end here */
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+/* headet section css code start here */
+.header .navbar .navbar-nav {
+    padding: 0px 190px 0px;
+}
+.header .navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 203px;
+    text-transform: capitalize;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #a117d8;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+    color: #a117d8;
+}
+/* headet section css code end here */
+/* banner section start */
+.banner .owl-carousel .text{
+        padding-top: 111px;
+        position: absolute;
+        margin-top: -58px;
+        margin-left: 0px;
+}
+.banner .owl-carousel .text .text-t{
+    font-size: 18px;
+}
+.banner .owl-carousel .text .text-title{
+    font-size: 25px;
+}
+.banner .owl-carousel .text .text-title-des{
+    font-size: 10px;
+
+}
+.banner .owl-carousel .img-fluid{
+    margin-left: 523px;
+}
+/* owner-speech strt */
+.owner-speech .inner-owner-speech .inner-owner-speech-des{
+    font-size: 17px;
+}
+.owner-speech .inner-owner-speech .owner-name{
+    font-size: 17px;
+}
+/* fun water start */
+.fun-water .f{
+    width: 240px;
+    margin-left: 0px;
+}
+.fun-water .col-lg-12 .text .text-des{
+    margin-left: 45px;
+    font-size: 15px;
+   padding-top: 20px;
+}
+.fun-water .col-lg-12 .button {
+    margin-left: 177px;
+}
+.thumbnail{
+    width: 268px;
+    left: 212px;
+    top: 30px;
+}
+/* buy surfing board start */
+.buy-surfboard .titile .t-text {
+    font-size: 30px;
+}
+.buy-surfboard .card {
+    margin-left: 72px;
+    margin-bottom: 10px;
+}
+/* traning section start */
+.traning .trainnig-text .traning-title{
+    font-size: 40px;
+}
+.traning .trainnig-text .traning-des {
+    font-size: 14px;
+}
+.traning .trainnig-text a {
+    font-size: 19px;
+
+}
+/* break section start */
+.break .break-text .break-title{
+    font-size: 40px;
+}
+.break .break-text .break-des{
+    font-size: 14px;
+
+}
+/* join the club start */
+.join-the-club .textr .title{
+    font-size: 40px;
+}
+.join-the-club .textr .title-des{
+    font-size: 12px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+/* headet section css code start here */
+.header .navbar .navbar-nav {
+    padding: 0px 190px 0px;
+}
+.header .navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 437px;
+    text-transform: capitalize;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:hover{
+    color: #a117d8;
+}
+.header .navbar .navbar-nav .nav-item .nav-link:focus{
+    color: #a117d8;
+}
+/* headet section css code end here */
+/* banner section start */
+.banner .owl-carousel .text{
+        padding-top: 111px;
+        position: absolute;
+        margin-top: -58px;
+        margin-left: 0px;
+}
+.banner .owl-carousel .text .text-t{
+    font-size: 20px;
+}
+.banner .owl-carousel .text .text-title{
+    font-size: 28px;
+}
+.banner .owl-carousel .text .text-title-des{
+    font-size: 14px;
+
+}
+.banner .owl-carousel .img-fluid{
+    margin-left: 83px;
+}
+/* owner-speech strt */
+.owner-speech .inner-owner-speech .inner-owner-speech-des{
+    font-size: 20px;
+}
+.owner-speech .inner-owner-speech .owner-name{
+    font-size: 20px;
+}
+/* fun water start */
+.fun-water .f{
+    width: 340px;
+    margin-left: 30px;
+}
+.fun-water .col-lg-12 .text .text-des{
+    margin-left: 149px;
+    font-size: 20px;
+   padding-top: 20px;
+}
+.fun-water .col-lg-12 .button {
+    margin-left: 280px;
+}
+.thumbnail{
+    width: 340px;
+    left: 335px;
+    top: 30px;
+}
+/* buy surfing board start */
+.buy-surfboard .titile .t-text {
+    font-size: 35px;
+}
+.buy-surfboard .card {
+    margin-left: 200px;
+    margin-bottom: 15px;
+}
+/* traning section start */
+.traning .trainnig-text .traning-title{
+    font-size: 45px;
+}
+.traning .trainnig-text .traning-des {
+    font-size: 22px;
+}
+.traning .trainnig-text a {
+    font-size: 25px;
+
+}
+/* break section start */
+.break .break-text .break-title{
+    font-size: 45px;
+}
+.break .break-text .break-des{
+    font-size: 20px;
+
+}
+.break .break-text a {
+    font-size: 25px;
+}
+
+/* join the club start */
+.join-the-club .textr .title{
+    font-size: 45px;
+}
+.join-the-club .textr .title-des{
+    font-size: 19px;
+}
+}
+/* resonsive.csss end */
+
